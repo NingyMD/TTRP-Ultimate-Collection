@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "supported_formats": {"min_inclusive": 16, "max_inclusive": 48},
+    "Author": "NingyMD",
+    "description": "§rResource pack for §6§lTallTalesRP§r."
+  }
+}
